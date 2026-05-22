@@ -34,6 +34,7 @@ I'm a final-year CS student passionate about building software, protecting thing
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Databases**
 
@@ -47,6 +48,8 @@ I'm a final-year CS student passionate about building software, protecting thing
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AAFA9?style=flat&logoColor=white)
+![Nmap](https://shields.io)
+
 
 **Homelab & Infrastructure**
 
