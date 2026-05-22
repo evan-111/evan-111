@@ -34,7 +34,7 @@ I'm a final-year CS student passionate about building software, protecting thing
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://shields.io)
 
 **Databases**
 
@@ -47,8 +47,9 @@ I'm a final-year CS student passionate about building software, protecting thing
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AAFA9?style=flat&logoColor=white)
+![Metasploit](https://shields.io)
 ![Nmap](https://shields.io)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAFA9?style=flat&logoColor=white)
 
 
 **Homelab & Infrastructure**
@@ -57,6 +58,7 @@ I'm a final-year CS student passionate about building software, protecting thing
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat&logoColor=white)
 ![VyOS](https://img.shields.io/badge/VyOS-1A1A1A?style=flat&logoColor=white)
+
 
 ---
 
