@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">https://linkedin.com/in/evan-gan-48175019b</a> •
   <a href="mailto:YOUR-EMAIL">evangmy999@gmail.com</a> •
-  <a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
 </p>
 
 ---
