@@ -27,37 +27,37 @@ I'm a final-year CS student passionate about building software, protecting thing
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![Java](https://shields.io)
+![C++](https://shields.io)
+![PHP](https://shields.io)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
 ![Bash](https://shields.io)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
 
 **Cybersecurity & Networking**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Kali Linux](https://shields.io)
+![Wireshark](https://shields.io)
+![Burp Suite](https://shields.io)
 ![Metasploit](https://shields.io)
 ![Nmap](https://shields.io)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AAFA9?style=flat&logoColor=white)
-
+![Wazuh](https://shields.io)
 
 **Homelab & Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=flat&logoColor=white)
-![VyOS](https://img.shields.io/badge/VyOS-1A1A1A?style=flat&logoColor=white)
+![Linux](https://shields.io)
+![Proxmox](https://shields.io)
+![OPNsense](https://shields.io)
+![VyOS](https://shields.io)
+
 
 
 ---
