@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL">Email</a> •
+  <a href="mailto:YOUR-EMAIL">evangmy999@gmail.com</a> •
   <a href="https://YOUR-PORTFOLIO.com">Portfolio</a>
 </p>
 
@@ -14,12 +14,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year CS student passionate about building software and breaking things (ethically). I enjoy working across the full stack while also diving deep into cybersecurity — from setting up homelabs to competing in CTF challenges.
+I'm a final-year CS student passionate about building software, protecting things (blue teaming) and virtualization. I enjoy working across the full stack while also diving deep into cybersecurity — from setting up homelabs to competing in CTF challenges.
 
-- 🔭 Currently working on personal projects involving web development and security tooling
+- 🔭 Currently working on personal projects involving AI and network security
 - 🏠 Running a homelab with **Proxmox**, **OPNsense**, **VyOS**, and **Wazuh** for hands-on network & security practice
-- 🚩 Active CTF player — I enjoy web exploitation, network analysis, and OSINT challenges
-- 🌱 Always learning — currently exploring more of **XDR** and **threat detection**
+- 🚩 Active CTF player — I enjoy reverse engineering, network analysis, OSINT challenges and cryptogprahy 
+- 🌱 Always learning — currently exploring more of **XDR**, **Edge AI IDS/IPS** , **proxmox labbing**
 - 🎯 Open to opportunities in **Software Engineering** and **Cybersecurity**
 
 ---
@@ -66,26 +66,6 @@ I actively participate in Capture The Flag competitions and use my homelab to si
 - 🔎 Network traffic analysis with Wireshark
 - 🧪 SIEM monitoring and alerting with Wazuh/XDR
 - 🔐 Penetration testing fundamentals with Kali & Burp Suite
-
----
-
-## 📂 Featured Projects
-
-> ⭐ Check out my pinned repositories below!
-
-I build projects that sit at the intersection of software development and security — from web apps to homelab automation scripts. Each project includes a full README with setup instructions and technical breakdown.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evan-111&show_icons=true&theme=tokyonight&hide_border=true" alt="Evangmy's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
