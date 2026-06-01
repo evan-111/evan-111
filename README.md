@@ -59,7 +59,6 @@ I'm a final-year CS student passionate about building software, protecting thing
 
 I actively participate in Capture The Flag competitions and use my homelab to simulate real-world attack and defense scenarios. My focus areas include:
 
-- 🌐 Web exploitation & vulnerability analysis
 - 🔎 Network traffic analysis with Wireshark
 - 🧪 SIEM monitoring and alerting with Wazuh/XDR
 - 🔐 Penetration testing fundamentals with Kali & Burp Suite
